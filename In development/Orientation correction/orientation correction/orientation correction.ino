@@ -3,7 +3,7 @@
 #include <Adafruit_LSM9DS1.h>
 #include <Adafruit_Sensor.h>  // not used in this demo but required!
 
-// i2c
+// i2c connection
 Adafruit_LSM9DS1 lsm = Adafruit_LSM9DS1();
 
 
