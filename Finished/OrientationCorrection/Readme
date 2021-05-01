@@ -1,0 +1,4 @@
+data filtering with about a .20 degree variation.
+43 ms execution time
+
+Thought behind this was to stabilize drone/car orientation and get experience mapping component with sensor data. 
