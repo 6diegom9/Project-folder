@@ -1,0 +1,5 @@
+Has auto configure to take into account slope of the car and neutral position of the shifter. 
+Currently set up to unlock car at 3rd gear when activated 3 times.
+
+Project will be completed when I have a project car (cheap honda civic) to tune up and try out CAN bus modifications.
+Will also require 3d printed part to hold on to the shifter and pcb design to accomadate for the minimal room.
