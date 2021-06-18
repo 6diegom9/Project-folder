@@ -1,4 +1,6 @@
-Most of these projects are components to larger systems such as drones, cars, and motors. 
-These concepts will be brought together when I move out and have space for an ender 3 pro so I can 3d print the parts to hold these components.
+Publicly disclosed project and templates for various electronics.
 
-Thanks for stopping by!
+
+Main equipment used with these files:
+Ender 3 v2 4.2.2 with bltouch
+Teensy 4.1 with sd card
