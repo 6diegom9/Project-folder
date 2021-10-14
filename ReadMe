@@ -4,4 +4,5 @@ Publicly disclosed project and templates for various electronics.
 
 Main equipment used with these files:
 Ender 3 v2 4.2.2 with bltouch
-Teensy 4.1 with sd card
+Arduino IDE with Teensy 4.1 with sd card
+labVIEW with arduino Mega
