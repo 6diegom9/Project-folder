@@ -1,0 +1,6 @@
+This code filters data and requires 2/6 samples to trigger desired measurement distance at around 300ms.
+  
+  WARNING:
+  This is NOT needed as street driving tests showed cars can pass by at only trigger 1-2 out of 6 samples in high speed settings. For lower speed, this would be ideal.
+  Test run showed low possibility of false triggers. Sensors gave a 0 reading for ALL of the time until a car passed.
+  This code works best in analyzing sensor capturing capability through a longer period of time. Not recommended for regular driving trigger for notifying driver.
