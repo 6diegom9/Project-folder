@@ -1,5 +1,8 @@
-Has auto configure to take into account slope of the car and neutral position of the shifter. 
-Currently set up to unlock car at 3rd gear when activated 3 times.
+Uses roll, pitch, and yaw calculated from accelermoter data.
 
-Project will be completed when I have a project car (cheap honda civic) to tune up and try out CAN bus modifications.
-Will also require 3d printed part to hold on to the shifter and pcb design to accomadate for the minimal room.
+Includes auto configure for initial slope determination. Ex. parked on a slope.
+Includes data filtering. Ex. Averaging 10 non delay readings
+
+Currently configured for 3rd gear press 3 times.
+
+TBR: added reset timer so unlimited time won't be allowed 
