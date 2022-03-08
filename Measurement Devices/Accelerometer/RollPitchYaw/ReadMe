@@ -1,0 +1,6 @@
+Roll, Pitch, and Yaw angles determined from accelerometer readings
+
+
+For: I2C OLED and serial monitor.
+Filtered versions: 10 non delay readings averaged
+Unfiltered: No delay readings
